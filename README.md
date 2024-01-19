@@ -2,6 +2,7 @@
 
 ## About The Project
 
+![Alt text](images/image-1.png)
 
 ## Getting Started
 
